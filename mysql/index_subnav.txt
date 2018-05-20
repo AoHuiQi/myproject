@@ -1,0 +1,11 @@
+0	https://search.soolife.cn/cat/110.html	女装	
+1	https://search.soolife.cn/cat/197.html	连衣裙	
+2	https://search.soolife.cn/cat/198.html	半身裙	
+3	https://search.soolife.cn/cat/199.html	女士衬衫	
+4	https://search.soolife.cn/cat/200.html	女士T恤	
+5	https://search.soolife.cn/cat/201.html	雪纺衫	
+6	https://search.soolife.cn/cat/202.html	女士西服	
+7	https://search.soolife.cn/cat/203.html	女士套装	
+8	https://search.soolife.cn/cat/204.html	女士马甲	
+9	https://search.soolife.cn/cat/205.html	打底裤	
+10	https://search.soolife.cn/cat/206.html	女士休闲裤	

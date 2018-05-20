@@ -1,0 +1,3 @@
+0	https://i.soolife.cn/public/pc/img/account/logo.gif	
+1	https://i.soolife.cn/public/pc/img/account/enter(2)_03.png	
+2	https://i.soolife.cn/public/pc/img/account/banner_new.jpg	

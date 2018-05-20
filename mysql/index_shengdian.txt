@@ -1,0 +1,6 @@
+0	http://item.soolife.cn/39131.html	https://d1.soolife.cn/img/a084268adb8cc8279a1f0f1210638a36.jpg	设计工匠
+1	http://store.soolife.cn/728.html	https://d3.soolife.cn/img/10880717a26011ad62aa453fe060ec0f.jpg	pogo
+2	http://store.soolife.cn/727.html	https://d3.soolife.cn/img/77a4a802ca3a88f63f6547fa6a34f920.jpg	mon to sun
+3	http://item.soolife.cn/67141.html	https://d1.soolife.cn/img/af66b6f57b2e3fb2bd6a85bf9dd4d8db.jpg	67141
+4	http://item.soolife.cn/53423.html	https://d2.soolife.cn/img/3e4a5f08ea674be2299e707244c6f277.jpg	
+5	http://item.soolife.cn/32792.html	https://d2.soolife.cn/img/e98378648ef4ec7abc64433fccb7bc7c.jpg	
